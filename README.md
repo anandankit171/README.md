@@ -1,4 +1,3 @@
-# README.md
 # Hi there, I'm Ankit 👋
 
 I'm a passionate software developer who wants to learn about the magic of software. I have a knack for building web applications and a deep interest in open-source projects contributions.I would love to learn more about open-source.
