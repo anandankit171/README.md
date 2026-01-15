@@ -30,4 +30,4 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 
 ### 💡 Techy Quote
 
-> “Any sufficiently advanced technology is indistinguishable from magic.” - Arthur C. Clarke
+> “Any sufficiently advanced technology is indistinguishable from magic” - Arthur C. Clarke
